@@ -1,1 +1,2 @@
-# hello-world
+greetin = hello-world
+Print(greeting)
