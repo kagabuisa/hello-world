@@ -1,2 +1,2 @@
-greetin = hello-world
+greeting = hello-world
 Print(greeting)
